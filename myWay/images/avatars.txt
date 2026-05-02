@@ -2,3 +2,4 @@ https://raw.githubusercontent.com/swGLS/ESEMPIO_app/main/myWay/images/Default.pn
 https://raw.githubusercontent.com/swGLS/ESEMPIO_app/main/myWay/images/anna.png
 https://raw.githubusercontent.com/swGLS/ESEMPIO_app/main/myWay/images/vecchio01.png
 https://raw.githubusercontent.com/swGLS/ESEMPIO_app/main/myWay/images/Simo01.png
+https://raw.githubusercontent.com/swGLS/ESEMPIO_app/main/myWay/images/Fabrizio.png
